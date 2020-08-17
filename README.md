@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/ggnUjyuZ5h5WTwbykm/giphy.gif" alt="Tom Hanks dancing" width="100%">
 
 
-🔭 I’m currently working on Terminal X
+🔭 I’m currently working at Terminal X
 
-💬 Ask me about Laravel or Vuejs
+💬 Ask me anything about Laravel or Vuejs
